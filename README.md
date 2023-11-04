@@ -8,6 +8,7 @@ pkg install python
 pkg install python-pip
 pkg install python2
 pkg install git
+cd
 rm -rf Foll-Ig
 git clone https://github.com/Dra-ID/Foll-Ig 
 cd Foll-Ig 
