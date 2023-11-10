@@ -9,11 +9,10 @@ pkg install python-pip
 pkg install python2
 pkg install git
 cd
-rm -rf Foll-Ig
-git clone https://github.com/Dra-ID/Foll-Ig 
-cd Foll-Ig 
+rm -rf Free-Instagram 
+git clone https://github.com/Dra-ID/Free-Instagram 
+cd Free-Instagram 
 ls
-pip install inquirer
 pip install -r requirements.txt
 git pull
 python run.py
